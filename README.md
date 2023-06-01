@@ -1,6 +1,6 @@
 # logisitc-regression-model
 
-This program is training a logistic regression model to predict the sentiment (positive or negative) of customer reviews. It first imports several libraries such as pandas, sklearn, and nltk, which are used for various tasks including data manipulation, feature extraction, and natural language processing. The program then defines several functions:
+Logistic regression model that predicts the sentiment (positive or negative) of customer reviews. First imports several libraries such as pandas, sklearn, and nltk, which are used for various tasks including data manipulation, feature extraction, and natural language processing. Afterwards, defines several functions:
 
 "clean(document)" preprocesses a given text by lowercasing it, eliminating contractions, spell-checking, tokenizing, and removing stop words.
 
