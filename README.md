@@ -9,3 +9,5 @@ Logistic regression model that predicts the sentiment (positive or negative) of 
 "predict()" takes in a new review, preprocesses it using the "clean()" function, vectorizes it, and makes a sentiment prediction using the trained model.
 
 "testing()" calls "train_model()" and "predict()" in sequence.
+
+<img width="947" alt="Screenshot 2023-09-18 at 11 56 40 AM" src="https://github.com/franky-cast/logisitc-regression-model/assets/113398924/bf96d836-06f6-4828-bc26-282be69376f7">
